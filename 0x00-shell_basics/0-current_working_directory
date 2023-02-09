@@ -1,2 +1,2 @@
 #!/bin/bash
-$ chmd u+x pwd
+$ chmd u+x pwd \
